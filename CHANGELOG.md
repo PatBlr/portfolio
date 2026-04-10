@@ -9,3 +9,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - [PF-01]: Implemented basic scene setup for testing purposes
+- [PF-02]: GitHub-Pages will now automatically deploy on push to main-branch
